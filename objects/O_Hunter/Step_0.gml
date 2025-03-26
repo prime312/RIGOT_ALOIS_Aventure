@@ -102,3 +102,14 @@ var l2ADD421E_0;l2ADD421E_0 = keyboard_check(ord("A"));if (!l2ADD421E_0){	//
 				/// @DnDHash : 24B717D7
 				/// @DnDParent : 6EA2B150
 				speed = 0;}}}}
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+/// @DnDVersion : 1
+/// @DnDHash : 7FC79518
+/// @DnDArgument : "key" "vk_shift"
+var l7FC79518_0;l7FC79518_0 = keyboard_check_pressed(vk_shift);if (l7FC79518_0){	/// @DnDAction : YoYo Games.Movement.Set_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 42EBE772
+	/// @DnDParent : 7FC79518
+	/// @DnDArgument : "speed" "-sprint"
+	speed = -sprint;}

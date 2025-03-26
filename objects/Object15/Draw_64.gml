@@ -9,9 +9,9 @@ if(la == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 	/// @DnDParent : 402685F0
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "sprite" "Sprite33"
-	/// @DnDSaveInfo : "sprite" "Sprite33"
-	draw_sprite(Sprite33, 0, x + 0, y + 0);
+	/// @DnDArgument : "sprite" "S_E"
+	/// @DnDSaveInfo : "sprite" "S_E"
+	draw_sprite(S_E, 0, x + 0, y + 0);
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
