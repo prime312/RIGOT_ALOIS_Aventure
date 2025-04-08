@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Monster_Hunter_World_OST__Main_Menu_Theme__________HQ__4K_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":79.09878,
+  "name":"Monster_Hunter_World_OST__Main_Menu_Theme__________HQ__4K_",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Objects/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Monster_Hunter_World_OST__Main_Menu_Theme__________HQ__4K_.mp3",
+  "type":0,
+  "volume":1.0,
+}

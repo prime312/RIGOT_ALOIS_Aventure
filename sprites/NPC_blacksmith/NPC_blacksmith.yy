@@ -13,7 +13,9 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"4b529248-2f8c-4c05-b3be-0fc1c50c02fb","name":"4b529248-2f8c-4c05-b3be-0fc1c50c02fb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ec25eb9f-2afa-4013-8276-c9891e8cac12","name":"ec25eb9f-2afa-4013-8276-c9891e8cac12","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"f5f5e6c6-edb9-44a1-bfa9-12ed7601a5cc","name":"f5f5e6c6-edb9-44a1-bfa9-12ed7601a5cc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"2be44585-e145-4a2a-96fc-c59dc8cb92fe","name":"2be44585-e145-4a2a-96fc-c59dc8cb92fe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -50,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -60,7 +62,7 @@
     },
     "name":"NPC_blacksmith",
     "playback":1,
-    "playbackSpeed":2.0,
+    "playbackSpeed":4.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -73,8 +75,14 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4b529248-2f8c-4c05-b3be-0fc1c50c02fb","path":"sprites/NPC_blacksmith/NPC_blacksmith.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"cf024a81-0e23-4978-9cf7-e23d11f85860","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec25eb9f-2afa-4013-8276-c9891e8cac12","path":"sprites/NPC_blacksmith/NPC_blacksmith.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3c751cd0-e67f-4cf1-addf-ca09d42781ce","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f5f5e6c6-edb9-44a1-bfa9-12ed7601a5cc","path":"sprites/NPC_blacksmith/NPC_blacksmith.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ffb53a6f-c5b1-4f61-8c7f-3fafbdda8579","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"ffb53a6f-c5b1-4f61-8c7f-3fafbdda8579","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2be44585-e145-4a2a-96fc-c59dc8cb92fe","path":"sprites/NPC_blacksmith/NPC_blacksmith.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b3520287-69b2-44b6-8cf2-7fc1926c10fd","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
