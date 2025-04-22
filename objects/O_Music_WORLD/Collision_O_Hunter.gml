@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 3DE86C7C
+/// @DnDArgument : "soundid" "Monster_Hunter_World_Soundtrack__Astera_Theme__Night_"
+/// @DnDSaveInfo : "soundid" "Monster_Hunter_World_Soundtrack__Astera_Theme__Night_"
+audio_stop_sound(Monster_Hunter_World_Soundtrack__Astera_Theme__Night_);
+
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 4972E7E0

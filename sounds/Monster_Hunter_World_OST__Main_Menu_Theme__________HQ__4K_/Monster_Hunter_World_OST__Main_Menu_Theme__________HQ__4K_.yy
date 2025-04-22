@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":79.09878,
+  "duration":79.06394,
   "name":"Monster_Hunter_World_OST__Main_Menu_Theme__________HQ__4K_",
   "parent":{
     "name":"Music",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Monster_Hunter_World_OST__Main_Menu_Theme__________HQ__4K_.mp3",
   "type":0,
-  "volume":1.0,
+  "volume":0.19,
 }

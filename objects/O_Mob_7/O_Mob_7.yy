@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"O_Mob_7",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Arrow","path":"objects/O_Arrow/O_Arrow.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Mob_7",
   "overriddenProperties":[],

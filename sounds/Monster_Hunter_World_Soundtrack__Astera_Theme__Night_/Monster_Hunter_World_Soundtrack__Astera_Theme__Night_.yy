@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.0,
+  "duration":289.08844,
   "name":"Monster_Hunter_World_Soundtrack__Astera_Theme__Night_",
   "parent":{
     "name":"Music",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Monster_Hunter_World_Soundtrack__Astera_Theme__Night_.mp3",
   "type":0,
-  "volume":1.0,
+  "volume":0.69,
 }
