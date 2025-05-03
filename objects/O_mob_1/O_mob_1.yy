@@ -11,7 +11,10 @@
     "name":"mobs",
     "path":"folders/Objects/mobs.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_mob_charge",
+    "path":"objects/O_mob_charge/O_mob_charge.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

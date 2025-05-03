@@ -9,7 +9,10 @@
     "name":"npc",
     "path":"folders/Objects/npc.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_interactable",
+    "path":"objects/O_interactable/O_interactable.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"NPC_cook",
-    "path":"sprites/NPC_cook/NPC_cook.yy",
+    "name":"S_NPC_cook",
+    "path":"sprites/S_NPC_cook/S_NPC_cook.yy",
   },
   "spriteMaskId":null,
   "visible":true,

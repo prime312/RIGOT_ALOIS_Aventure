@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"GS_arm",
-    "path":"sprites/GS_arm/GS_arm.yy",
+    "name":"S_GS",
+    "path":"sprites/S_GS/S_GS.yy",
   },
   "spriteMaskId":null,
   "visible":true,

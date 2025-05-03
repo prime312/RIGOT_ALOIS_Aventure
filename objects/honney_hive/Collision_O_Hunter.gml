@@ -13,7 +13,7 @@ var l3AFE5A4E_0;l3AFE5A4E_0 = keyboard_check(ord("E"));if (l3AFE5A4E_0){	///
 	/// @DnDVersion : 1
 	/// @DnDHash : 3C270D1C
 	/// @DnDParent : 3AFE5A4E
-	/// @DnDArgument : "spriteind" "Honney_Plant_empty"
-	/// @DnDSaveInfo : "spriteind" "Honney_Plant_empty"
-	sprite_index = Honney_Plant_empty;
+	/// @DnDArgument : "spriteind" "S_Honney_Hive_empty"
+	/// @DnDSaveInfo : "spriteind" "S_Honney_Hive_empty"
+	sprite_index = S_Honney_Hive_empty;
 	image_index = 0;}

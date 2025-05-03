@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite61",
-    "path":"sprites/Sprite61/Sprite61.yy",
+    "name":"S_Colider_Wall",
+    "path":"sprites/S_Colider_Wall/S_Colider_Wall.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sword_arm",
-    "path":"sprites/Sword_arm/Sword_arm.yy",
+    "name":"S_Sword",
+    "path":"sprites/S_Sword/S_Sword.yy",
   },
   "spriteMaskId":null,
   "visible":true,

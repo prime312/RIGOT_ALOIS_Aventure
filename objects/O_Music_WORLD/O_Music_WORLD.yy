@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite57",
-    "path":"sprites/Sprite57/Sprite57.yy",
+    "name":"S_Colider_Music_jungle",
+    "path":"sprites/S_Colider_Music_jungle/S_Colider_Music_jungle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"heal",
-    "path":"sprites/heal/heal.yy",
+    "name":"S_heal",
+    "path":"sprites/S_heal/S_heal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

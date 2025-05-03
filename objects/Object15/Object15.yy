@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite34",
-    "path":"sprites/Sprite34/Sprite34.yy",
+    "name":"S_Colider_Monkey",
+    "path":"sprites/S_Colider_Monkey/S_Colider_Monkey.yy",
   },
   "spriteMaskId":null,
   "visible":true,

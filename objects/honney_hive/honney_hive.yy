@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Honney_Plant",
-    "path":"sprites/Honney_Plant/Honney_Plant.yy",
+    "name":"S_Honney_Hive",
+    "path":"sprites/S_Honney_Hive/S_Honney_Hive.yy",
   },
   "spriteMaskId":null,
   "visible":true,

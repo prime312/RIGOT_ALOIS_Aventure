@@ -3,16 +3,21 @@
   "%Name":"O_Mob_4",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Hunter","path":"objects/O_Hunter/O_Hunter.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Arrow","path":"objects/O_Arrow/O_Arrow.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Mob_4",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_mob","path":"objects/O_mob/O_mob.yy",},"propertyId":{"name":"HP","path":"objects/O_mob/O_mob.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"250",},
+  ],
   "parent":{
     "name":"mobs",
     "path":"folders/Objects/mobs.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_mob_charge_zone",
+    "path":"objects/O_mob_charge_zone/O_mob_charge_zone.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,9 +31,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"Mob_4_pv","filters":[],"listItems":[],"multiselect":false,"name":"Mob_4_pv","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"250","varType":0,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

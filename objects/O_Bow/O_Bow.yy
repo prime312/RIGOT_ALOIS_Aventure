@@ -26,13 +26,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"Arrow_Damage","filters":[],"listItems":[],"multiselect":false,"name":"Arrow_Damage","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"25","varType":0,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bow_arm",
-    "path":"sprites/Bow_arm/Bow_arm.yy",
+    "name":"S_Bow",
+    "path":"sprites/S_Bow/S_Bow.yy",
   },
   "spriteMaskId":null,
   "visible":true,

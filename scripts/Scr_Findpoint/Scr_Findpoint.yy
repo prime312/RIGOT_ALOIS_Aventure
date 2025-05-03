@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scr_Findpoint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scr_Findpoint",
+  "parent":{
+    "name":"mobai",
+    "path":"folders/Scripts/mobai.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
