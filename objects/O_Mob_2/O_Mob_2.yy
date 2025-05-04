@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Mob_2",
-    "path":"sprites/S_Mob_2/S_Mob_2.yy",
+    "name":"S_Mob_7",
+    "path":"sprites/S_Mob_7/S_Mob_7.yy",
   },
   "spriteMaskId":null,
   "visible":true,
