@@ -5,8 +5,8 @@
   "isDnD":true,
   "name":"Scr_Launch_Room",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"room",
+    "path":"folders/Scripts/room.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

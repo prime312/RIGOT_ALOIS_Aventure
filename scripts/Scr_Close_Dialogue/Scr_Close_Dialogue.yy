@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"Scr_back",
+  "%Name":"Scr_Close_Dialogue",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"Scr_back",
+  "name":"Scr_Close_Dialogue",
   "parent":{
-    "name":"room",
-    "path":"folders/Scripts/room.yy",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

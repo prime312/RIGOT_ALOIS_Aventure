@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"npc",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"npc",
   "overriddenProperties":[],
@@ -27,10 +29,10 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"textIndex","filters":[],"listItems":[],"multiselect":false,"name":"textIndex","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"sprite_npc","filters":[],"listItems":[],"multiselect":false,"name":"sprite_npc","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"texts","filters":[],"listItems":[],"multiselect":false,"name":"texts","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[]","varType":4,},
-    {"$GMObjectProperty":"v1","%Name":"name_npc","filters":[],"listItems":[],"multiselect":false,"name":"name_npc","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"textIndex","filters":[],"listItems":[],"multiselect":false,"name":"textIndex","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"sprite_npc","filters":[],"listItems":[],"multiselect":false,"name":"sprite_npc","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"S_NPC","path":"sprites/S_NPC/S_NPC.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"S_NPC","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"texts","filters":[],"listItems":[],"multiselect":false,"name":"texts","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[\"Hello Hunter\"]","varType":4,},
+    {"$GMObjectProperty":"v1","%Name":"name_npc","filters":[],"listItems":[],"multiselect":false,"name":"name_npc","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Mark\"","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
